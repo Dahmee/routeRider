@@ -34,7 +34,7 @@ const Footer = () => {
           </div>
 
           <div className="">
-            <p className="text-xs font-bold tracking-widest text-white uppercase">
+            <p className="text-xs font-bold tracking-widest text-black uppercase">
               Our Company
             </p>
 
