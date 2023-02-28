@@ -73,7 +73,7 @@ const Footer = () => {
                 <a
                   href="#"
                   title=""
-                  className="flex text-sm font-normal text-white transition-all duration-200 transform hover:translate-x-1"
+                  className="flex text-sm font-normal text-black transition-all duration-200 transform hover:translate-x-1"
                 >
                   Terms and Conditions
                 </a>
